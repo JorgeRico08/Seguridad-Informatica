@@ -3,7 +3,18 @@
     text-align: center;
     font-size: 50px;
     font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
-    margin-top: 2rem;
+    margin-top: 1rem;
+}
+
+.imgBack{
+    height: 30px;
+
+}
+
+.pdf{
+    height: 70px;
+    display: block;
+    margin: auto;
 }
 
 body{
@@ -20,3 +31,23 @@ footer {
     margin-top: 1rem; 
 }
 
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height: 450px;
+  }
+
+  .imagenPer {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    height: 300px;
+    display: block;
+    margin: auto;
+  }
+
+  .textoDP{
+    margin-top: 2rem;
+    font-size: medium;
+  }
